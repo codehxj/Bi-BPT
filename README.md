@@ -24,7 +24,7 @@ This bibranch pyramid transformer (Bi-BPT) architecture is effective and robust 
 
 - Clone this repository:
 ```bash
-git clone [https://github.com/](https://github.com/codehxj/Bi-BPT)
+git clone https://github.com/codehxj/Bi-BPT
 ```
 
 The code is stable using Python 3.8.16, Pytorch 1.7.0
