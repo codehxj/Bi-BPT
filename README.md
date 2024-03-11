@@ -1,7 +1,6 @@
 # Bi-BPT
 
-This is an official implementation of "Learning the degradation distribution for medical image superresolution via sparse swin transformer".
-Pytorch code for the paper "Integrating Prior Knowledge into a Bibranch Pyramid Network for Medical Image Segmentation"
+This is an official implementation of the paper "Integrating Prior Knowledge into a Bibranch Pyramid Network for Medical Image Segmentation"
 
 ## Introduction
 
